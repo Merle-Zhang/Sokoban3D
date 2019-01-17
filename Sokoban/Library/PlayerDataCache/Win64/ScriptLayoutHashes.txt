@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-D:/Development/Unity/Sokoban - Copy/Sokoban/Build/Sokoban.exe
+D:/Development/Unity/MadHacks2018/Sokoban/Build/Sokoban.exe
 SceneListBegin?
 Assets/sokoban.unity
 SceneListEnd?
