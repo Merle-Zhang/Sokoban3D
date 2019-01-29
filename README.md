@@ -1,6 +1,9 @@
 Sokoban 3D
 =====
 
+###### Challenge: Start from scratch, learn and build in 24 hours.(with ZERO experiendce with game making、C# and Unity)
+
+
 ![s](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/722/665/datas/gallery.jpg)
 
 
@@ -30,7 +33,7 @@ Learn Unity and C# first. Used some free model from Unity market.
 
 ## Challenges I ran into
 
-Understanding the detail of c# and Unity. Like the array operation in c# is different with Java and C++.
+Understanding the detail of C# and Unity. Like the array operation in C# is different with Java and C++.
 
 Also have trouble with Canvas, UI, Physical engine, render size in Unity. But finally find solutions for each problem.
 
@@ -42,4 +45,6 @@ Build this game without any experience in C# and Unity and game development in 2
 
 C#, Unity
 
-## What's next for Sokoban 3D
+## Try it out
+
+Download Sokoban3D/Sokoban/Build, run Sokoban.exe to start the game.
